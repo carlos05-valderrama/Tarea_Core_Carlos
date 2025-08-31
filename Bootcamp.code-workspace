@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"name": "Bootcamp",
+			"path": ".."
+		},
+		{
+			"name": "Portafolio personal",
+			"path": "../../../Desktop/Portafolio personal"
+		},
+		{
+			"name": "img",
+			"path": "../../../Desktop/img"
+		},
+		{
+			"name": "CSS",
+			"path": "../../../Desktop/CSS"
+		},
+		{
+			"name": "Ejercicios Modelo De Cajas",
+			"path": "../../../Desktop/Ejercicios Modelo De Cajas"
+		},
+		{
+			"name": "Ejercicios ninjas",
+			"path": "../../../Desktop/Ejercicios ninjas"
+		},
+		{
+			"name": "Proyecto imagenes bloques",
+			"path": "../../../Desktop/Proyecto imagenes bloques"
+		},
+		{
+			"name": "Barra de navegación",
+			"path": "../../../Desktop/Barra de navegación"
+		},
+		{
+			"name": "P_Tarjeta de usuario",
+			"path": "../../../Desktop/P_Tarjeta de usuario"
+		},
+		{
+			"path": "../../../Desktop/Diseño pagina de perfil"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Diseño pagina de perfil"
+	}
+}
